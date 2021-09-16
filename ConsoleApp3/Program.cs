@@ -17,6 +17,10 @@ namespace ConsoleApp3
             {
                 Console.WriteLine(c*c);
             }
+            else
+            {
+                Console.WriteLine("Net");
+            }
         }
     }
 }
